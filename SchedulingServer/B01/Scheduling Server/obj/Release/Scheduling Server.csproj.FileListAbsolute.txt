@@ -1,0 +1,13 @@
+D:\DEV Server\Scheduling Server\Scheduling Server\bin\Release\Scheduling Server.exe
+D:\DEV Server\Scheduling Server\Scheduling Server\bin\Release\Scheduling Server.pdb
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\ResolveAssemblyReference.cache
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling_Server.Form1.resources
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling_Server.Properties.Resources.resources
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling Server.csproj.GenerateResource.Cache
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling Server.exe
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling Server.pdb
+D:\DEV Server\Scheduling Server\Scheduling Server\bin\Release\Scheduling Server.exe.manifest
+D:\DEV Server\Scheduling Server\Scheduling Server\bin\Release\Scheduling Server.application
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling Server.TrustInfo.xml
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling Server.exe.manifest
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Release\Scheduling Server.application

@@ -1,0 +1,4 @@
+This folder contains the Waddon Project source code. 
+This code is copyright (C) David A. Graham 2008.
+For more information see www.railwaycontrol.co.uk.
+This version (1.0) forms University Coursework of Bournemouth University.

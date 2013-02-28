@@ -1,0 +1,10 @@
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'SetWhish' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineSpeed' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineTrainType' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineReply' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineOriginPlatform' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DeterminePlatform' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineDestination' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineAction' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineFrom' not defined
+Warning[2064] C:\Waddon_Source\Code\Comms.c 43 : static function 'DetermineTo' not defined

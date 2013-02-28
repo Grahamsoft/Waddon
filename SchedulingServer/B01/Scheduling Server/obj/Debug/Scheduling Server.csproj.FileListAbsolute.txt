@@ -1,0 +1,8 @@
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Debug\ResolveAssemblyReference.cache
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Debug\Scheduling_Server.Form1.resources
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Debug\Scheduling_Server.Properties.Resources.resources
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Debug\Scheduling Server.csproj.GenerateResource.Cache
+D:\DEV Server\Scheduling Server\Scheduling Server\bin\Debug\Scheduling Server.exe
+D:\DEV Server\Scheduling Server\Scheduling Server\bin\Debug\Scheduling Server.pdb
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Debug\Scheduling Server.exe
+D:\DEV Server\Scheduling Server\Scheduling Server\obj\Debug\Scheduling Server.pdb
