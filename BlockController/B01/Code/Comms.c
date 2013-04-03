@@ -1,13 +1,10 @@
 /******************************************************************************
 * Filename		:	Comms.c
 * Part of		:	Waddon - Modular Railway Control
-* Version		:	1.0
-*					This versions only forms part of University coursework.
-* Copyright		:	(c) David A. Graham 2008
-* Date			:	March 2008
-*					Copyright laws prohibit making additional copies of this 
-*					software for any reason.
-* Contact		:	david@grahamsoft.co.uk
+* Version		:	1.1
+* Copyright		:	(c) David A. Graham 2013
+* Date			:	April 2013
+* Contact		:	GitHub@grahamsoft.co.uk
 * Description	:	Polls both the major Comms functions, Send and Receive.
 *********************************************************************************/
 #include "Types.h"

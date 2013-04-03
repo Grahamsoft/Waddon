@@ -1,13 +1,10 @@
 /******************************************************************************
 * Filename		:	JobManager.c
 * Part of		:	Waddon - Modular Railway Control
-* Version		:	1.0
-*					This versions only forms part of University coursework.
-* Copyright		:	(c) David A. Graham 2008
-* Date			:	March 2008
-*					Copyright laws prohibit making additional copies of this 
-*					software for any reason.
-* Contact		:	david@grahamsoft.co.uk
+* Version		:	1.1
+* Copyright		:	(c) David A. Graham 2013
+* Date			:	April 2013
+* Contact		:	GitHub@grahamsoft.co.uk
 * Description	:	The JobManager stores the Jobs that are either:
 *					-> Not sent and will be next the CommsManager is Called.
 *						-> And this also consists of new Jobs from this
